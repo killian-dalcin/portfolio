@@ -14,7 +14,7 @@ If you want to follow my projects join my discord [community server](https://dis
 
 Bienvenue dans le code source de mon portfolio. Si vous souhaitez l'utiliser, assurez-vous de donner le crédit.
 
-[Cliquez ici si vous voulez juste voir le site web](!https://portfolio.mrkayjaydee.xyz/)
+[Cliquez ici si vous voulez juste voir le site web](https://portfolio.mrkayjaydee.xyz/french.html)
 
 Assurez-vous de faire défiler tout en bas si vous souhaitez télécharger mon CV.
 
