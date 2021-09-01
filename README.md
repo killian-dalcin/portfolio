@@ -8,7 +8,7 @@ Be sure to scroll to the full bottom if you want to download my CV.
 
 You can easily change the lang of the page by clicking the litle flag at the top right corner of the page.
 
-If you want to follow my projects join my discord [community server](https://discord.gg/7SBruKCTvQ).
+If you want to follow my projects join my discord [community server](https://discord.gg/5ZSGFYtnqw).
 
 # Portfolio de Mr¤KayJayDee
 
@@ -20,4 +20,4 @@ Assurez-vous de faire défiler tout en bas si vous souhaitez télécharger mon C
 
 Vous pouvez facilement changer la langue de la page en cliquant sur le petit drapeau dans le coin supérieur droit de la page.
 
-Si vous souhaitez suivre mes projets rejoignez mon serveur [discord de communauté](https://discord.gg/7SBruKCTvQ).
+Si vous souhaitez suivre mes projets rejoignez mon serveur [discord de communauté](https://discord.gg/5ZSGFYtnqw).
